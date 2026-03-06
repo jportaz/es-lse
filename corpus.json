@@ -1123,7 +1123,7 @@
     ,
     {
 	"a": "A veces mamá le dice que se dé prisa porque va a llegar tarde a clase.",
-	"b": "MUCHAS-VECES MAMÁ\\nmcº{(rol:madre)}: POR-FAVOR, HORA MUY-TARDE, CLASE, VAMOS DEPRISA.",
+	"b": "MUCHAS-VECES MAMÁ\\nmc{(rol:madre)}: POR-FAVOR, HORA MUY-TARDE, CLASE, VAMOS DEPRISA.",
 	"c": "Muchas veces mamá le dice: por favor, es tarde para la clase, date prisa."
     }
     ,
