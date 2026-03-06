@@ -1,0 +1,1387 @@
+[
+    {
+	"a": "Con el mes de septiembre para muchos estudiantes comienza una nueva y desafiante etapa en su vida: la entrada en la Universidad.",
+	"b": "TOCA MES SEPTIEMBRE PERSONA+ ESTUDIANTE+ EMPEZAR ÉPOCA ESPECIAL VIDA SU, ENTRAR UNIVERSIDAD.",
+	"c": "En el mes de septiembre los estudiantes empiezan una época especial de su vida, la entrada en la universidad."
+    }
+    ,
+    {
+	"a": "Casi la mitad de los estudiantes de la Universidad de Sevilla viene de los pueblos de la provincia y de otras ciudades andaluzas.",
+	"b": "CASI MITAD PERSONA+ ESTUDIANTE+ UNIVERSIDAD SEVILLA VENIR DÓNDE-?, PUEBLO SU, PROVINCIA SEVILLA O PROVINCIA OTRO.",
+	"c": "Casi la mitad de los estudiantes de la Universidad de Sevilla vienen de los pueblos de su provincia o de otras provincias."
+    }
+    ,
+    {
+	"a": "El primer y principal problema con que se encuentran estos alumnos es la búsqueda de una vivienda.",
+	"b": "PRIMERO PROBLEMA CUÁL-?, PERSONA+ ESTUDIANTE+, PROBLEMA CUÁL-?, BUSCAR PISO, CASA, VIVIR DÓNDE-?.",
+	"c": "El primer problema de los estudiantes es buscar un piso, una casa donde vivir."
+    }
+    ,
+    {
+	"a": "¿Dónde vivir? es la pregunta que a muchos estudiantes no deja dormir alguna que otra noche.",
+	"b": "VIVIR DÓNDE-? MUCHAS-VECES POR-LA-NOCHE CLS: 2 \\clp{persona dando vueltas en la cama} PREOCUPAR+ PROBLEMA ESE.",
+	"c": "¿Dónde vivir? Muchas veces por la noche no pueden dormir preocupados por ese problema."
+    }
+    ,
+    {
+	"a": "Los que tienen más suerte son aquellos que tienen hermanos o amigos que ya viven en Sevilla y que les ayudan a buscar piso.",
+	"b": "ALGUNOS SUERTE HAY AMIGO O HERMANO, ETCÉTERA, ESOS PERSONA++ APOYARME PARA BUSCAR PISO.",
+	"c": "Algunos tienen suerte y tienen amigos o hermanos que les apoyan para buscar piso."
+    }
+    ,
+    {
+	"a": "Pero son muchos los que llegan perdidos y asustados y no saben por dónde empezar a buscar.",
+	"b": "PERO, MUCHAS-VECES ALGUNOS ABRIR-PUERTA NO-SABER IR DÓNDE MOTIVO BUSCAR ZONA NO-SABER DÓNDE.",
+	"c": "Pero, muchas veces, algunos no saben por dónde empezar porque no saben buscar la zona."
+    }
+    ,
+    {
+	"a": "Se les encuentra por todas partes buscando un piso donde vivir el resto del año.",
+	"b": "MUCHAS-VECES SEVILLA ZONA BUSCAR+ CLP: HAY HAY HAY \\clp{se signa en distintos espacios} PARA VIVIR DURANTE-UN-AÑO.",
+	"c": "Muchas veces buscan por Sevilla donde vivir durante el año."
+    }
+    ,
+    {
+	"a": "A la hora de plantearse vivir fuera de casa, son muchas las alternativas a las que podemos acogernos.",
+	"b": "TOCA EMPEZAR CASA VIVIR DENTRO-NO, FUERA HAY POSIBILIDAD CLP: 4 4 \\clp{muchas posibilidades}\\nmc{(mofl)}.",
+	"c": "Cuando empiezan a vivir fuera de casa hay muchas posibilidades."
+    }
+    ,
+    {
+	"a": "A la hora de plantearse vivir fuera de casa, son muchas las alternativas a las que podemos acogernos.",
+	"b": "TOCA EMPEZAR CASA VIVIR DENTRO-NO, FUERA HAY POSIBILIDAD CLP: 4 4 \\clp{muchas posibilidades}\\nmc{(mofl)}",
+	"c": "Cuando empiezan a vivir fuera de casa hay muchas posibilidades."
+    }
+    ,
+    {
+	"a": "La más extendida quizá entre los estudiantes, es la de alquilar un piso entre varios amigos.",
+	"b": "MAYORÍA USAR+ PERSONA+ ESTUDIANTE+ USAR CUÁL-?, ALQUILER+ AMIGO COMPARTIR AMIGO.",
+	"c": "La mayoría usa el alquiler compartido con amigos."
+    }
+    ,
+    {
+	"a": "Esta es la solución que prefieren los estudiantes.",
+	"b": "ESE, ALQUILER PISO GUSTAR MÁS QUIÉN, PERSONA+ ESTUDIANTE+.",
+	"c": "El alquiler de piso le gusta más a los estudiantes."
+    }
+    ,
+    {
+	"a": "Esta es la solución que prefieren los estudiantes.",
+	"b": "ESE, ALQUILER PISO GUSTAR MÁS QUIÉN, PERSONA+ ESTUDIANTE+.",
+	"c": "El alquiler de piso le gusta más a los estudiantes."
+    }
+    ,
+    {
+	"a": "Esta opción tiene como ventajas las siguientes:",
+	"b": "ESE ALQUILER POSITIVO++ QUÉ-?",
+	"c": "El alquiler tiene cosas positivas:"
+    }
+    ,
+    {
+	"a": "si se alquila el piso entre varios amigos,",
+	"b": "EJEMPLO, PRIMERO AMIGO+ ALQUILER DINERO COMPARTIR",
+	"c": "Por ejemplo, primero, el dinero del alquiler se comparte con los amigos"
+    }
+    ,
+    {
+	"a": "el alojamiento sale más barato.",
+	"b": "REBAJAR DINERO REBAJAR.",
+	"c": "el precio baja."
+    }
+    ,
+    {
+	"a": "los estudiantes tienen libertad para entrar y salir de su casa cuando quieran.",
+	"b": "SEGUNDO, PERSONA ESTUDIANTE+ LIBRE PODER ENTRAR, VENIR, COMO-QUIERA, LIBRE.",
+	"c": "Segundo, los estudiantes tienen libertad para poder entrar y venir cuando quieran."
+    }
+    ,
+    {
+	"a": "los pisos de alquiler suelen estar cerca de las distintas facultades. Por lo tanto, se ahorran el dinero de tener que coger el autobús.",
+	"b": "TERCERO, QUÉ-?, ALQUILER+ CERCA UNIVERSIDAD MOTIVO TEMA DINERO+ AUTOBÚS ECONOMÍA AHORRAR++.",
+	"c": "Tercero, el alquiler cerca de la universidad para ahorrar el dinero del autobús."
+    }
+    ,
+    {
+	"a": "Por otra parte, hay que tener en cuenta que alquilar un piso también tiene algunos inconvenientes.",
+	"b": "CUARTO, TAMBIÉN, ALQUILER PISO, TAMBIÉN COSAS NEGATIVO++ HAY, CUÁL-?",
+	"c": "En cuarto lugar, el alquiler también tiene cosas negativas."
+    }
+    ,
+    {
+	"a": "Por ejemplo, el estudiante tiene que hacerse la comida él sólo, lavarse y plancharse su ropa y limpiar el piso.",
+	"b": "EJEMPLO, PERSONA ESTUDIANTE+ DEBER COMIDA A-MANO COCINAR+ SOLO COCINAR++, ROPA LAVADORA O FREGAR, ETCÉTERA.",
+	"c": "Por ejemplo, los estudiantes deben hacerse su propia comida, deben cocinarse solos, lavar la ropa o fregar, etcétera."
+    }
+    ,
+    {
+	"a": "Para encontrar piso, sólo basta darse un paseo por la facultad e ir bien atento mirando las paredes,",
+	"b": "TOCA ENCONTRAR PISO SÓLO HACER-FALTA UNIVERSIDAD CARTEL CLL: \\clp{cartel en la pared} CLP: 5 \\clp{muchos carteles en las paredes} VER",
+	"c": "Para encontrar piso sólo hacen falta los carteles de la universidad."
+    }
+    ,
+    {
+	"a": "porque, cuando llega septiembre, éstas se llenan de anuncios de pisos de distintos precios.",
+	"b": "TOCA SEPTIEMBRE, PARED ESPECIAL UNIVERSIDAD ANUNCIO DINERO ETCÉTERA.",
+	"c": "Cuando llega septiembre en las paredes de la universidad hay anuncios con el precio, etcétera."
+    }
+    ,
+    {
+	"a": "Los precios de los alquileres varían dependiendo de la zona en la que esté el piso.",
+	"b": "PRECIO ALQUILER DEPENDER \\nmc{(2m)}QUÉ-?, ZONA DEPENDER MOTIVO ALQUILER+ DINERO VARIAR++.",
+	"c": "El precio del alquiler depende de la zona porque el dinero de los alquileres varía."
+    }
+    ,
+    {
+	"a": "Una solución distinta al piso de alquiler es la residencia universitaria.",
+	"b": "OTRO SOLUCIÓN CUÁL-?, RESIDENCIA ESPECIAL UNIVERSIDAD.",
+	"c": "Otra solución es la residencia universitaria."
+    }
+    ,
+    {
+	"a": "Esta es la solución que prefieren los padres de los estudiantes.",
+	"b": "ESE RESIDENCIA GUSTAR QUIÉN-?, PADRE-MADRE PERSONA ESTUDIANTE+",
+	"c": "La residencia le gusta a los padres de los estudiantes"
+    }
+    ,
+    {
+	"a": "Los padres se sienten más tranquilos y relajados con la residencia",
+	"b": "MOTIVO PADRE-MADRE TRANQUILO, RELAJADO TEMA RESIDENCIA",
+	"c": "porque se sienten tranquilos y relajados con la residencia"
+    }
+    ,
+    {
+	"a": "porque piensan que aquí los estudiantes están más controlados y, además, reciben educación y una buena y sana alimentación.",
+	"b": "MOTIVO PADRE-MADRE PENSAR DENTRO PERSONA ESTUDIANTE+ CONTROL, MÁS EDUCACIÓN ESPECIAL, ADEMÁS COMIDA CALIDAD BUENO.",
+	"c": "porque los padres piensan que dentro los estudiantes están controlados, tienen una educación especial y buena calidad en las comidas."
+    }
+    ,
+    {
+	"a": "Éstas son algunas de las ventajas de las residencias universitarias, pero otras ventajas son:",
+	"b": "ESE ANTES GUIÓN++ POSITIVO++, OTRO RESIDENCIA POSITIVO++ \\nmc{(2m)}QUÉ-?:",
+	"c": "Esto son cosas positivas, otras cosas positivas de las residencias son:"
+    }
+    ,
+    {
+	"a": "existen muchas residencias en Sevilla y de distinto tipo, por ejemplo, las hay femeninas, masculinas y mixtas.",
+	"b": "DENTRO SEVILLA CIUDAD RESIDENCIA ETCÉTERA, EJEMPLO, HAY MUJER GRUPO O HOMBRE O MEZCLADO.",
+	"c": "Dentro de la ciudad de Sevilla hay distintas residencias, por ejemplo, femeninas, masculinas y mixtas."
+    }
+    ,
+    {
+	"a": "hay residencias por todas partes", 
+	"b": "SEGUNDO, RESIDENCIA CLP: \\clp{muchas residencias por todas partes} CIUDAD.",
+	"c": "Segundo, hay residencias en todas partes de la ciudad."
+    }
+    ,
+    {
+	"a": "y los estudiantes pueden elegir aquella que esté más cerca de su facultad.",
+	"b": "ADEMÁS ESTUDIANTE+ PODER IR CERCA UNIVERSIDAD IR.",
+	"c": "Además, los estudiantes pueden ir a la que está cerca de la universidad."
+    }
+    ,
+    {
+	"a": "en las residencias se hacen muchos amigos y se conoce a mucha gente.",
+	"b": "DENTRO RESIDENCIA AMIGO ETCÉTERA PODER, CONOCERSE+++.",
+	"c": "Dentro de la residencia se pueden conocer amigos."
+    }
+    ,
+    {
+	"a": "algunas residencias dan clases de apoyo para que el estudiante vaya bien en sus estudios.",
+	"b": "ALGUNOS RESIDENCIA HAY DENTRO CLASE+ APOYO PARA PERSONA ESTUDIANTE+ MEJOR+, ESTUDIO MEJOR++.",
+	"c": "Algunas residencias tienen clases de apoyo para que los estudiantes vayan mejor en sus estudios."
+    }
+    ,
+    {
+	"a": "Pero la residencia universitaria también tiene inconvenientes.",
+	"b": "DENTRO RESIDENCIA COSAS NEGATIVO+",
+	"c": "Dentro de la residencia hay cosas negativas,"
+    }
+    ,
+    {
+	"a": "Por ejemplo, los estudiantes se siente vigilados porque la hora de cierre de la residencia suele ser muy temprana y cada vez que se marchan de fin de semana deben rellenar un parte de salida.",
+	"b": "EJEMPLO, PERSONA ESTUDIANTE SENTIR CONTROL MOTIVO HORA CERRAR PUERTA TEMPRANO PROBLEMA SALIR NO-PODER, ADEMÁS FIN-DE-SEMANA IR CASA, DEBER JUSTIFICANTE FIRMAR PRESENTAR.",
+	"c": "por ejemplo, los estudiantes se sienten controlados porque la hora de cierre de la puerta es temprano y tiene el problema de no poder salir. Además, el fin de semana se van a casa y deben presentar un justificante firmado."
+    }
+    ,
+    {
+	"a": "La residencia universitaria es más cara que el piso de alquiler.",
+	"b": "APARTE RESIDENCIA UNIVERSIDAD MÁS-CARO DINERO MÁS-CARO, PISO MENOS.",
+	"c": "Por otra parte, la residencia universitaria es más cara que un piso."
+    }
+    ,
+    {
+	"a": "La guerra es tan vieja como la humanidad.",
+	"b": "GUERRA EDAD IGUAL HUMANIDAD IGUAL+.",
+	"c": "La guerra tiene la misma edad que la humanidad."
+    }
+    ,
+    {
+	"a": "Entre los hallazgos más antiguos están las armas de guerra: hachas, lanzas, flechas, espadas y puñales en épocas prehistóricas.",
+	"b": "COSAS ENCONTRAR, COSAS ANTIGUO \\nmc{(2m)}QUÉ-?, GUERRA ESPECIAL GUERRA COSAS, LANZA, PALO, FLECHA, ESPADA, PUÑAL, ENCONTRAR DÓNDE-?, ÉPOCA ANTES HISTORIA, ANTES.",
+	"c": "Se han encontrado antigüedades especiales para la guerra. Lanzas, palos, flechas, espadas, puñales de la prehistória."
+    }
+    ,
+    {
+	"a": "Hay diferencias en la agresividad de los pueblos,",
+	"b": "TEMA GRUPO++ AGRESIVIDAD++ ESE DIFERENTE++.",
+	"c": "La agresividad es diferente en los grupos."
+    }
+    ,
+    {
+	"a": "por ejemplo, no existen armas de guerra y sí sólo de caza entre los esquimales, ciertas tribus de Colombia, Ecuador y África.",
+	"b": "EJEMPLO, GRUPO ALGUNOS HAY GUERRA NO-HAY, MATAR ANIMALES SÍ, GRUPO QUIÉN-?, EJEMPLO VIVIR PERSONA+ POLO NORTE ESQUIMAL, GRUPO COLOMBIA, ECUADOR, ÁFRICA.",
+	"c": "Por ejemplo, algunos grupos no tienen guerra pero sí matan animales, Esos grupos son, por ejemplo, los esquimales del Polo Norte, grupos de Colombia, de Ecuador y de África."
+    }
+    ,
+    {
+	"a": "En sus lejanos espacios vitales, poco poblados y de difícil acceso, no había enemigos.",
+	"b": "ZONA SU LEJOS, PERSONA+ DENTRO VIVIR POCO, PODER IR COSTAR, PERSONA ENEMIGO NO-HAY.",
+	"c": "En sus zonas lejanas vivían pocas personas, costaba poder llegar, no tenían enemigos."
+    }
+    ,
+    {
+	"a": "Existen en cambio un sinfín de ejemplos de pueblos agresivos, sanguinarios y belicosos:",
+	"b": "ENTONCES, PERO HAY EJEMPLO GRUPO AGRESIVIDAD+++, GANAS SANGRE, AMOR GUERRA",
+	"c": "Pero hay ejemplos de pueblos muy agresivos, sanguinarios y amantes de la guerra."
+    }
+    ,
+    {
+	"a": "destacaron, entre otros, por su sed de sangre y afán destructor, los Zulúes de África del Sur.",
+	"b": "PRIMERO IMPORTANTE QUIÉN-? MOTIVO GANAS MATANZA GANAS QUIÉN-?, GRUPO NOMBRE \\dl{ZULÚES}, DÓNDE VIVIR-?, ÁFRICA SUR.",
+	"c": "El más importante por sus ganas de matanza era el grupo llamado Zulúes, que vivían en África del Sur."
+    }
+    ,
+    {
+	"a": "Desde tiempos muy remotos fueron causa de guerra el robo de mujeres y tierras, la sed de botín, las ideas religiosas,",
+	"b": "TOCA HACE-MUCHO-TIEMPO++ OBJETIVO GUERRA \\nmc{(2m)}QUÉ-?, MUJER \\nmc{(2m)}ROBAR, TIERRA \\nmc{(2m)}ROBAR+, TAMBIÉN GANAS BOTÍN, IDEA RELIGIÓN",
+	"c": "Hace mucho tiempo el objetivo de la guerra era el robo de mujeres y tierras, también las ganas de botín, las ideas religiosas,"
+    }
+    ,
+    {
+	"a": "que subyacen a costumbres como los sacrificios humanos, el canibalismo o la caza de cabezas y no en último lugar el ansia de gloria y la voluntad de dominio.",
+	"b": "DENTRO RELIGIÓN HAY COSTUMBRE EJEMPLO PERSONA MUERTO+++ MATANZA O EJEMPLO PERSONA CUERPO COMER CLC: \\clp{comerse el cuerpo} O PERSONA CABEZA CORTAR-CABEZA, TAMBIÉN, ÚLTIMO-NO, QUÉ-?, GANAS ÉXITO, MÁS GANAS DOMINAR CONTROL.",
+	"c": "dentro de la religión había la costumbre de, por ejemplo, matar a las personas o, por ejemplo, comer el cuerpo de las personas o cortarles la cabeza. También, no en último lugar, estaban las ganas de éxito, las ganas de dominar y controlar."
+    }
+    ,
+    {
+	"a": "Los imperios de la historia se formaron basándose en guerras.",
+	"b": "GRUPO GANAS DOMINAR, NOMBRE \\dl{IMPERIOS}, EJEMPLO GRECIA ROMA, BASE SURGIR MOTIVO GUERRA.",
+	"c": "El grupo con ganas de dominar recibía el nombre de imperios. Por ejemplo, Grecia, Roma, surgieron basándose en las guerras."
+    }
+    ,
+    {
+	"a": "En casi todas las tribus y pueblos gozó el guerrero de especial prestigio.",
+	"b": "CASI MAYORÍA GRUPO, PUEBLO, IMPORTANTE QUIÉN-?, HOMBRE PERSONA RESPONSABLE GUERRA.",
+	"c": "Casi en la mayoría de los grupos, pueblos, el importante era el guerrero."
+    }
+    ,
+    {
+	"a": "Su posición en la sociedad era elevada, se vestía con espléndido, magnífico y llamativo atuendo para la lucha",
+	"b": "DENTRO SOCIEDAD NIVEL ALTO, ROPA MARAVILLOSO, RESTO LLAMAR-ATENCIÓN, ESPECIAL PARA LUCHAR.",
+	"c": "Dentro de la sociedad tenía un nivel alto, una ropa maravillosa que llamaba la atención de los demás y era especial para la lucha."
+    }
+    ,
+    {
+	"a": "a la que solía preceder un ritual destinado a levantar el ánimo, la danza guerrera.",
+	"b": "ESE ANTES LUCHAR ANTES HAY SABER BAILE ESPECIAL PARA GUERRA NOMBRE PARA ANIMAR+.",
+	"c": "Antes de la lucha hay un baile especial para la guerra llamado para animar."
+    }
+    ,
+    {
+	"a": "Hubo siempre gran interés en una presentación aterradora, amenazante y hostil, para ello se usaban pinturas de guerra y máscaras.",
+	"b": "SIEMPRE++ PRESENTACIÓN EJEMPLO MIEDO, PODEROSO, MÁS PARA RESTO \\nmc{(2m)}ASUSTAR, ENTONCES MUCHAS-VECES USAR PINTURAS COLOR ETCÉTERA, TAMBIÉN MÁSCARA.",
+	"c": "Siempre, siempre, siempre se presentaban dando miedo, con poder, para asustar al resto, entonces, muchas veces usaban pinturas de colores variados y máscara."
+    }
+    ,
+    {
+	"a": "En sus comienzos la guerra consistía en una lucha mano a mano entre tribus contrarias tras el encuentro inicial de los campeones.",
+	"b": "AL-PRINCIPIO TEMA GUERRA ENFRENTARSE GRUPO ENEMIGO, PRIMERO PERSONA+ CAMPEÓN+ ENCONTRARSE, DESPUÉS GRUPO CLS: 4 4 \\clp{dos grupos enfrentándose}.",
+	"c": "Al principio, en las guerras, se enfrentaban los grupos enemigos y primero se encontraban los campeones y, después, se enfrentaban los grupos."
+    }
+    ,
+    {
+	"a": "A la ruidosa, brutal y primitiva arremetida siguió pronto la táctica,",
+	"b": "DESPUÉS CLS: 4 4 \\clp{los dos grupos corriendo para luchar} CAMBIAR OTRO MÉTODO.",
+	"c": "Después, los dos grupos corriendo para luchar cambió a otro método."
+    }
+    ,
+    {
+	"a": "después se descubrió la emboscada y la falsa retirada",
+	"b": "TERCERO, ESCONDERSE CLS: 4 1 \\clp{un grupo ataca a otro}, TAMBIÉN MÉTODO OTRO CLS: 4 1 \\clp{un grupo ataca a otro} CLS: 4 1 \\clp{un grupo se acerca a otro, se retira y, otra vez, vuelve a atacar}.",
+	"c": "En tercer lugar, se escondían, un grupo se abalanzaba sobre otro, se retiraba y, después, volvía a atacar."
+    }
+    ,
+    {
+	"a": "y, luego, vino el orden de batalla con sofisticada distribución de armas ligeras y pesadas y empleo de caballería, carros de combate y elefantes.",
+	"b": "TAMBIÉN ORDEN, CLP: 2 2 \\clp{personas (u objetos) en filas ordenadas de delante hacia atrás} ESPECIAL ARMA COSAS ETCÉTERA, EJEMPLO, PRIMERO LIGERO, AHÍ PESADO, CLP: 2 2 \\clp{personas (u objetos) en filas}, USAR CABALLO+, CARRO, TAMBIÉN ELEFANTE.",
+	"c": "También se ordenaban por filas las armas especiales, etcétera, por ejemplo, primero las ligeras, después las pesadas, las personas o los objetos se situaban en filas. Usaban caballos, carros y elefantes."
+    }
+    ,
+    {
+	"a": "En ningún campo fue tan fecundo el ingenio humano como en el de la invención de métodos estratégicos, de ataque y defensivos cada vez más eficaces.",
+	"b": "TEMA INTELIGENCIA PERSONA+ HUMANO++ PARA CREAR MÉTODO TEMA ENFRENTARSE O DEFENDER OTRO TEMA IGUAL INTELIGENCIA VALE NO-HAY.",
+	"c": "La inteligencia de las personas humanas para crear métodos de ataque o defensa no hay otro tema donde haya una inteligencia igual de válida."
+    }
+    ,
+    {
+	"a": "El objetivo ideal de la estrategia es la destrucción del enemigo.",
+	"b": "OBJETIVO PERFECTO MÉTODO QUÉ-?, ENEMIGO DESAPARECER, OBJETIVO ESE.",
+	"c": "El objetivo perfecto del método era hacer desaparecer al enemigo."
+    }
+    ,
+    {
+	"a": "La brutalidad puesta a ese servicio sólo conoce suavizamientos graduales según la época y el lugar.",
+	"b": "MISMO BRUTALIDAD++ ESE, DEPENDER SUAVE O BRUTALIDAD DEPENDER ÉPOCA O ZONA GUERRA, DEPENDER.",
+	"c": "La brutalidad o suavidad de eso dependía de la época o de la zona de la guerra."
+    }
+    ,
+    {
+	"a": "Cuando acaso se hacían prisioneros, su destino posterior era la esclavitud.",
+	"b": "TOCA PERSONA PRESO, DESPUÉS, TRASLADAR CÁRCEL.",
+	"c": "Cuando se hacían prisioneros se trasladaban a las cárceles."
+    }
+    ,
+    {
+	"a": "Las poblaciones sometidas conocieron siempre la ley de la espada.",
+	"b": "GRUPO PERDER SOMETERSE CONOCER QUÉ-?, LEY ESPADA CONOCER, SOMETERSE.",
+	"c": "Los grupos que perdían se sometían y conocían la ley de la espada."
+    }
+    ,
+    {
+	"a": "La historia de las guerras está llena de crueldad, y sangre en todas las partes del mundo.",
+	"b": "HISTORIA TEMA GUERRA DENTRO SANGRE, BRUTALIDAD, MUNDO CLP: \\clp{se señalan las distintas partes en el mundo} TODO.",
+	"c": "En la historia del tema de las guerras hay sangre y brutalidad en todas partes del mundo."
+    }
+    ,
+    {
+	"a": "Y poco ha cambiado, sigue habiendo guerras, hay matanzas de pueblos y nos llegan noticias de gran derramamiento de sangre.",
+	"b": "AHORA-MISMO, DESDE-ANTES-HASTA-AHORA CAMBIAR POCO, CONTINUAR GUERRA, GRUPO++ ENFRENTARSE, RECIBIR-INFORMACIÓN NOTICIAS, RECIBIR-INFORMACIÓN, SANGRE, MATANZA, HORRIBLE, CONTINUAR++.",
+	"c": "Desde antiguo hasta la actualidad ha cambiado poco, continúan las guerras y el enfrentamiento de los grupos, se reciben noticias de que continúan la sangre y las matanzas horribles."
+    }
+    ,
+    {
+	"a": "En lo que alcanza la historia mundial, hubo pueblos sometidos por otros pueblos belicosos y dispuestos a seguir en la agresión a caudillos ambiciosos, dominantes y brutales.",
+	"b": "HISTORIA MUNDO HAY GRUPO SOMETERSE MOTIVO HAY ALGUNOS PODEROSO APLASTAR GRUPO SOMETERSE, ESE MISMO OBJETIVO QUÉ-?, PERSONA FIEL, ESE PERSONA CÓMO-?, GANAS GUERRA, SENTIR BRUTALIDAD ESE FIEL.",
+	"c": "En la historia del mundo hay grupos que se someten porque hay algunos grupos poderosos que aplastan al grupo sometido, que tiene como objetivo ser fiel a esa persona. Esa persona es belicosa y brutal y le son fieles."
+    }
+    ,
+    {
+	"a": "El objetivo final era la conquista del mundo mediante la creación de imperios,",
+	"b": "OBJETIVO FINAL QUÉ-?, MUNDO DOMINAR++, CREAR QUÉ-?, \\dl{IMPERIO}.",
+	"c": "El objetivo final es dominar el mundo y crear imperios."
+    }
+    ,
+    {
+	"a": "es lo que se conoce como imperialismo.",
+	"b": "ESE NOMBRE CÓMO-?, \\dl{IMPERIALISMO}.",
+	"c": "Eso se llama imperialismo."
+    }
+    ,
+    {
+	"a": "Éste se define como un afán de dominio que procura extender la jurisdicción de un país a costa de países vecinos e incluso lejanos.",
+	"b": "ESE QUÉ-? CONCEPTO SIGNIFICAR QUÉ-?, GANAS DOMINAR++, OBJETIVO INTENTAR MI PAÍS MI INTENTAR DOMINAR EXTENDERSE PAÍS++ EXTENDERSE, TAMBIÉN LEJOS PAÍS+ TAMBIÉN LEJOS.",
+	"c": "Ese concepto significa ganas de dominar con el objetivo de intentar extender mi país también a países lejanos."
+    }
+    ,
+    {
+	"a": "La historia nos demuestra que la tendencia al imperialismo existe en todo tiempo y que en cuanto surge un tirano puede cristalizar enseguida.",
+	"b": "HISTORIA DEMOSTRAR+ NORMAL ANTES INTENTAR OBJETIVO DOMINAR AHORA-NO, CONTINUAR, DESDE-ANTES-HASTA-AHORA CONTINUAR+, TOCA UN SURGIR PERSONA ORGULLOSO ÉL PODER CONTINUAR++.",
+	"c": "La historia demuestra que el intento de dominar no es algo de ahora sino que continúa desde la antigüedad hasta ahora. Cuando surge una persona orgullosa puede continuar."
+    }
+    ,
+    {
+	"a": "Te voy a contar un día en la vida de mi perro.",
+	"b": "YO CONTAR+ VIDA MI PERRO, UN DÍA COMPLETO YO CONTAR.",
+	"c": "Yo voy a contar la vida de mi perro, un día completo."
+    }
+    ,
+    {
+	"a": "Por la mañana, mi perro se despierta a las 8.30.",
+	"b": "POR-LA-MAÑANA LEVANTAR, DESPERTARSE, HORA OCHO Y-MEDIA DESPERTARSE.",
+	"c": "Por la mañana se levanta, se despierta a las ocho y media."
+    }
+    ,
+    {
+	"a": "Él nunca se levanta sólo",
+	"b": "ÉL SÓLO LEVANTARSE NUNCA",
+	"c": "Él nunca se levanta solo"
+    }
+    ,
+    {
+	"a": "porque es muy dormilón.",
+	"b": "MOTIVO DORMIR ENCANTAR.",
+	"c": "porque le encanta dormir."
+    }
+    ,
+    {
+	"a": "Yo lo despierto para sacarlo a la calle.",
+	"b": "YO LLAMAR PARA DESPERTAR CALLE CLI: \\clp{llevar el perro de la cadena}.",
+	"c": "Yo lo llamo para despertarlo y sacarlo a la calle."
+    }
+    ,
+    {
+	"a": "Si hace mucho frío, le pongo su abrigo.",
+	"b": "SI FRÍO, ABRIGO \\nmc{(cond)}CLS: 2 \\clp{perro andando}.",
+	"c": "Si hace frío le pongo un abrigo."
+    }
+    ,
+    {
+	"a": "En la calle se encuentra con otros perros.",
+	"b": "TOCA CALLE NORMAL ENCONTRARSE+ PERRO",
+	"c": "En la calle normalmente se encuentra con perros."
+    }
+    ,
+    {
+	"a": "Muchos perros son amigos suyos.",
+	"b": "ALGUNOS AMIGO SU.",
+	"c": "algunos son amigos suyos."
+    }
+    ,
+    {
+	"a": "Cuando los ve, tira de la cadena para que lo acerque a sus amigos.",
+	"b": "TOCA VER CLC: \\clp{perro que tira de la cadena} PARA CERCA CLS: 2 \\clp{perro andando}.",
+	"c": "Cuando los ve tira de la cadena para acercarse."
+    }
+    ,
+    {
+	"a": "Y, luego, se pone a mover el rabo y a jugar con ellos.",
+	"b": "DESPUÉS, NORMAL RABO CLPC: 1 \\clp{mover el rabo} PARA JUGAR++.",
+	"c": "Después, normalmente mueve el rabo para jugar."
+    }
+    ,
+    {
+	"a": "Después, volvemos a la casa y desayunamos.",
+	"b": "DESPUÉS, TOCA IR CLS: 2 \\clp{los dos se marchan} CASA, TOCA DESAYUNO.",
+	"c": "Después, los dos vamos a casa a desayunar."
+    }
+    ,
+    {
+	"a": "Mi perro no desayuna pero, a veces, le damos un trozo de tostada.",
+	"b": "MI PERRO DESAYUNO NADA, MUCHAS-VECES TOSTADA ALGO CLI: \\clp{darle tostada al perro}.",
+	"c": "Mi perro no desayuna nada. Muchas veces le doy un trozo de tostada."
+    }
+    ,
+    {
+	"a": "Luego, todos salimos de casa:",
+	"b": "DESPUÉS, TODOS IR CASA",
+	"c": "Después, todos salimos de casa:"
+    }
+    ,
+    {
+	"a": "papá y mamá se van al trabajo",
+	"b": "PADRE-MADRE IR TRABAJAR",
+	"c": "mi padre y mi madre van a trabajar" 
+    }
+    ,
+    {
+	"a": "mi hermano y yo nos vamos al colegio.",
+	"b": "HERMANO-HOMBRE YO IR COLEGIO.",
+	"c": "mi hermano y yo vamos al colegio."
+    }
+    ,
+    {
+	"a": "Entonces, mi perro se queda solo.",
+	"b": "DESPUÉS, PERRO SOLO CASA DENTRO.",
+	"c": "Después, el perro se queda solo en casa."
+    }
+    ,
+    {
+	"a": "Cuando mi perro se queda solo, no se aburre.",
+	"b": "TOCA ÉL SOLO ABURRIR \\nmc{(2m)}NO.",
+	"c": "Cuando está solo no se aburre."
+    }
+    ,
+    {
+	"a": "Duerme un poco pero también juega mucho.",
+	"b": "ÉL DORMIR MUCHAS-VECES, JUGAR TAMBIÉN.",
+	"c": "Duerme muchas veces, también juega."
+    }
+    ,
+    {
+	"a": "Mi perro tiene una caja con juguetes.",
+	"b": "ÉL HAY CAJA DENTRO JUGUETE ETCÉTERA",
+	"c": "Tiene una caja con juguetes variados,"
+    }
+    ,
+    {
+	"a": "Tiene tres pelotas de colores y varios muñecos de goma.",
+	"b": "HAY PELOTA COLOR TRES, MÁS MUÑECO ESPECIAL GOMA.",
+	"c": "tiene tres pelotas de colores y muñecos de goma."
+    }
+    ,
+    {
+	"a": "Cuando está solo, mi perro abre la caja con su hocico, saca todos sus juguetes y se pone a jugar.",
+	"b": "TOCA ÉL SOLO, CAJA HOCICO CLPC: \\clp{levanta la tapa de la caja con su hocico} PARA JUGUETE \\nmc{(2m)}FUERA++ JUGAR++.",
+	"c": "Cuando se queda solo, abre la caja con su hocico para sacar los juguetes."
+    }
+    ,
+    {
+	"a": "Se pone a darle patadas a las pelotas y a correr tras ellas.",
+	"b": "ÉL MUCHAS-VECES PELOTA CLPC: \\clp{dar patadas a las pelotas} CLS: 2 \\clp{el perro corre detrás de las pelotas}.",
+	"c": "Muchas veces da patadas a las pelotas y corre tras ellas."
+    }
+    ,
+    {
+	"a": "También le gusta morder los muñecos de goma.",
+	"b": "TAMBIÉN MUCHAS-VECES MUÑECO ESPECIAL GOMA MORDER",
+	"c": "También muchas veces muerde los muñecos de goma."
+    }
+    ,
+    {
+	"a": "Se tira al suelo y se pasa las horas mordiéndolos.",
+	"b": "SUELO CLL: 2 \\clp{tumbado en el suelo} HORA++ MORDER.",
+	"c": "se tumba en el suelo y se pasa horas mordiendo."
+    }
+    ,
+    {
+	"a": "Él muerde sus muñecos con cuidado, nunca los rompe.",
+	"b": "ÉL CLPC: \\clp{morder con fuerza} ROMPER MUÑECO-NO, ÉL CUIDAR.",
+	"c": "Él no muerde con fuerza los muñecos, no los rompe, él los cuida."
+    }
+    ,
+    {
+	"a": "Así, pasa el tiempo hasta que volvemos a casa.",
+	"b": "HORA++ HASTA TOCA TODOS IR CASA.",
+	"c": "Se pasa las horas hasta que todos volvemos a casa."
+    }
+    ,
+    {
+	"a": "A las 14.30 volvemos a casa.",
+	"b": "HORA DOS Y-MEDIA IR CASA.",
+	"c": "A las dos y media vamos a casa."
+    }
+    ,
+    {
+	"a": "Antes de abrir la puerta mi perro ya sabe que hemos vuelto porque nos oye cuando llegamos al portal.",
+	"b": "ANTES PUERTA ABRIR, ANTES SABER MOTIVO TOCA OÍR PORTAL ABAJO OÍR.",
+	"c": "Antes de abrir la puerta lo sabe porque nos oye en el portal de abajo."
+    }
+    ,
+    {
+	"a": "Cuando abrimos la puerta nos encontramos a mi perro muy contento de vernos.",
+	"b": "TOCA ABRIR, VER FELIZ, VER FELIZ.",
+	"c": "Cuando abrimos lo vemos muy feliz."
+    }
+    ,
+    {
+	"a": "Enseguida, nos lavamos las manos y ponemos la mesa para almorzar.",
+	"b": "DESPUÉS, DIRECTO IR LAVARSE-LAS-MANOS, MÁS MESA PREPARAR PLATO++ ETCÉTERA.",
+	"c": "Después, vamos directo a lavarnos las manos y a poner la mesa."
+    }
+    ,
+    {
+	"a": "Durante el almuerzo mi perro se tumba debajo de la mesa.",
+	"b": "MESA COMIDA TOCA CLL: 2 \\clp{el perro se pone debajo de la mesa}.",
+	"c": "En la comida, el perro se pone debajo de la mesa."
+    }
+    ,
+    {
+	"a": "Mamá no quiere que le demos de comer.",
+	"b": "MAMÁ QUERER-NO COMIDA DAR QUERER-NO.",
+	"c": "Mamá no quiere que le demos comida."
+    }
+    ,
+    {
+	"a": "Mi perro espera debajo de la mesa por si se cae algo.",
+	"b": "ÉL ESPERAR A-VER SUERTE HAY DAR-ME COMIDA ALGO+.",
+	"c": "Él espera a ver si hay suerte y le damos algo de comida."
+    }
+    ,
+    {
+	"a": "Tras el almuerzo, le damos su comida.",
+	"b": "FIN COMIDA, DESPUÉS, TURNO COMER.",
+	"c": "Tras la comida, después, le toca comer"
+    }
+    ,
+    {
+	"a": "Mi perro come pienso y croquetas para perro.",
+	"b": "SU ESPECIAL COMIDA QUÉ-?, ESPECIAL COMIDA ANIMALES PERRO+, MÁS CROQUETA ESPECIAL PERRO.",
+	"c": "su comida especial para perros y croquetas para perros."
+    }
+    ,
+    {
+	"a": "Después, saco a mi perro otra vez a la calle.",
+	"b": "DESPUÉS IR CALLE OTRA-VEZ.",
+	"c": "Después, vamos a la calle otra vez."
+    }
+    ,
+    {
+	"a": "Esta vez se lleva en la boca su pelota favorita.",
+	"b": "ÉL IR QUÉ-HACER-?, PELOTA GUSTAR SU COGER, IR.",
+	"c": "Él coge la pelota que le gusta."
+    }
+    ,
+    {
+	"a": "En la calle jugamos durante un buen rato.",
+	"b": "LOS-DOS JUGAR+",
+	"c": "Los dos jugamos,"
+    }
+    ,
+    {
+	"a": "Primero suelto a mi perro y después le tiro la pelota muy lejos.",
+	"b": "PRIMERO YO CLI: \\clp{desatar al perro}, PELOTA TIRAR LEJOS",
+	"c": "primero yo desato al perro, le tiro la pelota lejos,"
+    }
+    ,
+    {
+	"a": "Él corre muy deprisa tras la pelota, la coge y me la trae.",
+	"b": "CORRER CLS: 2 \\clp{el perro corre detrás de las pelotas} COGER CLS: 2 \\clp{el perro regresa corriendo}.",
+	"c": "corre tras la pelota, la coge y regresa corriendo."
+    }
+    ,
+    {
+	"a": "Y, otra vez, se la vuelvo a tirar.",
+	"b": "PERRO OTRA-VEZ DAR-ME, TIRAR LEJOS.",
+	"c": "El perro otra vez me la da, la tiro lejos."
+    }
+    ,
+    {
+	"a": "A mi perro le gusta mucho este juego.",
+	"b": "ÉL JUGAR ENCANTAR",
+	"c": "Le encanta jugar,"
+    }
+    ,
+    {
+	"a": "Puede pasarse horas corriendo detrás de la pelota.",
+	"b": "CAPAZ HORA++ PELOTA CLS: 2 \\clp{el perro corre detrás de las pelotas} CAPAZ.",
+	"c": "es capaz de pasarse horas corriendo detrás de la pelota."
+    }
+    ,
+    {
+	"a": "A las 17.00 volvemos a casa.",
+	"b": "HORA CINCO OTRA-VEZ CLS: 2 \\clp{los dos se marchan} CASA.",
+	"c": "A las cinco otra vez nos marchamos a casa."
+    }
+    ,
+    {
+	"a": "Yo me pongo a hacer los deberes.",
+	"b": "YO COLEGIO PREPARAR DEBERES.",
+	"c": "Yo preparo los deberes del colegio."
+    }
+    ,
+    {
+	"a": "Mi perro se vuelve a dormir porque está muy cansado de correr.",
+	"b": "ÉL OTRA-VEZ DORMIR MOTIVO CANSADO ANTES CORRER",
+	"c": "Otra vez duerme porque está cansado de correr,"
+    }
+    ,
+    {
+	"a": "Él duerme hasta la hora de merendar.",
+	"b": "AHORA DORMIR HASTA HORA COMER MEDIA TARDE ÉL.",
+	"c": "ahora duerme hasta la hora de merendar."
+    }
+    ,
+    {
+	"a": "Después de merendar, yo me voy a la calle a jugar con mi hermano y nuestros amigos.",
+	"b": "DESPUÉS COMER TARDE IR JUGAR AMIGO+ ETCÉTERA MÁS HERMANO-HOMBRE, YO, LOS-DOS IR.",
+	"c": "Después de merendar voy a jugar con los amigos y mi hermano."
+    }
+    ,
+    {
+	"a": "Mi perro se queda ahora en casa jugando con sus pelotas.",
+	"b": "PERRO QUÉ-HACER-?, CASA JUGAR PELOTA JUGAR++.",
+	"c": "El perro se queda en casa jugando con la pelota."
+    }
+    ,
+    {
+	"a": "Tras la cena, le toca a papá sacarlo a la calle.",
+	"b": "COMER NOCHE FIN, PAPÁ RESPONSABLE CALLE CLI: \\clp{llevar al perro de la cadena}.",
+	"c": "Tras la cena, papá es responsable de sacar al perro a la calle."
+    }
+    ,
+    {
+	"a": "Ya está muy oscuro",
+	"b": "CIELO OSCURO",
+	"c": "Está oscuro"
+    }
+    ,
+    {
+	"a": "y mamá no quiere que los niños salgamos de casa.",
+	"b": "MOTIVO MAMÁ QUERER-NO NIÑOS IR CALLE QUERER-NO MOTIVO OSCURO.",
+	"c": "y mamá no quiere que los niños vayamos a la calle porque está oscuro."
+    }
+    ,
+    {
+	"a": "Luego, cuando sube de la calle, mi perro se acuesta en su cama.",
+	"b": "DESPUÉS TOCA CASA, ÉL CAMA DORMIR.",
+	"c": "Después, en casa, se duerme en la cama."
+    }
+    ,
+    {
+	"a": "De madrugada, se levanta a beber agua, pero la mayor parte de la noche se la pasa durmiendo.",
+	"b": "MUCHAS-VECES MADRUGADA IR AGUA BEBER, NORMAL DÍA POR-LA-NOCHE COMPLETO DORMIR.",
+	"c": "Muchas veces, de madrugada, va a beber agua, normalmente duerme toda la noche."
+    }
+    ,
+    {
+	"a": "Actualmente la población mundial crece a un ritmo lo suficientemente acelerado, rápido y vertiginoso como para temer consecuencias catastróficas.",
+	"b": "AHORA-MISMO PERSONA+ MUNDO CRECER VELOZ, RÁPIDO, BURRADA, PODER FUTURO PROBLEMA+.",
+	"c": "En la actualidad la población del mundo crece velozmente, rápidamente, una burrada, puede haber problemas en el futuro."
+    }
+    ,
+    {
+	"a": "Las Naciones Unidas predicen que en el año 2050 el planeta acogerá a 8.900 millones de personas, aunque la cifra podría llegar a los 10.700 millones.",
+	"b": "AHORA-MISMO \\dl{ONU} DECIR 2050 MUNDO TOTAL PERSONA+ 8900000000 PERSONA+, PERO CAPAZ MÁXIMO 10700000000 PERSONA+ VIVIR MUNDO.",
+	"c": "En la actualidad la ONU dice que en el 2.050, en el mundo habrá un total de 8.900 millones de personas, pero que se puede llegar a un máximo de 10.700 millones de habitantes del mundo."
+    }
+    ,
+    {
+	"a": "A pesar de todo, hay que decir que, en general, las mujeres están teniendo menos hijos que nunca",
+	"b": "PODER DECIR EN-GENERAL MUJER+ HIJO MUY-POCO, ANTES MÁS.",
+	"c": "En general, se puede decir que las mujeres están teniendo muy pocos hijos, antes tenían más."
+    }
+    ,
+    {
+	"a": "y que el crecimiento de la población está siendo más lento, pausado y menor de lo que se esperaba.",
+	"b": "PERSONA CRECER LENTO, TRANQUILO, DESACELERADO.",
+	"c": "La población crece lentamente, tranquilamente, de manera desacelerada."
+    }
+    ,
+    {
+	"a": "Esto puede deberse a que las políticas de control de nacimientos han reducido la natalidad más de lo que se esperaba",
+	"b": "ESE MOTIVO POLÍTICA CONTROL NACIMIENTO++ INTENTAR EVITAR, NACIMIENTO++-NO, EVITAR MÁS INTENTAR.",
+	"c": "Eso es por la política de control de nacimientos que intenta evitar los nacimientos."
+    }
+    ,
+    {
+	"a": "y a que las muertes debido al SIDA también han sido mayores de lo esperado.",
+	"b": "ADEMÁS PERSONA+ MUERTO+ MOTIVO SIDA MÁS CRECER.",
+	"c": "Además las personas muertas por el SIDA han crecido más."
+    }
+    ,
+    {
+	"a": "Hasta el año 2020, el crecimiento de la población mundial será de 64 millones de personas al año",
+	"b": "HASTA TOCA AÑO 2020 CRECER EN-TOTAL EN-UN-AÑO 64000000 PERSONA+ EN-UN-AÑO.",
+	"c": "Hasta el año 2020 crecerá en un año, en total, 64 millones de personas al año."
+    }
+    ,
+    {
+	"a": "(en la actualidad la cifra está en torno a los 78 millones).",
+	"b": "EN-ESTE-MOMENTO, AHORA-MISMO, NÚMERO CIFRA 78000000 PERSONA+ EN-UN-AÑO.",
+	"c": "En este momento, en la actualidad, la cifra es de 78 millones de personas en un año."
+    }
+    ,
+    {
+	"a": "En el año 2050 se estima que la población crecerá en 33 millones de personas por año.",
+	"b": "TOCA AÑO 2050, MÁS-O-MENOS+, ESTIMAR, MÁS-O-MENOS, 33000000 PERSONA+ EN-UN-AÑO.",
+	"c": "En el año 2050, más o menos, se estima 33 millones de personas en un año."
+    }
+    ,
+    {
+	"a": "En definitiva, se prevé que la población no crecerá tanto como estaba previsto en un principio.",
+	"b": "EN-RESUMEN, MÁS-O-MENOS+, PERSONA+ CLD: C C \\clp{crecer cada vez más y muy rápidamente}-NO, AL-PRINCIPIO PENSAR CLD: C C \\clp{crecer cada vez más y muy rápidamente}, AHORA VER LENTO MENOS++.",
+	"c": "En resumen, más o menos, la población crece exageradamente, Al principio se pensaba en un crecimiento exagerado, ahora se ve que es lento, que es menor."
+    }
+    ,
+    {
+	"a": "Las tasas más altas de crecimiento de la población corresponden a los países más pobres, deprimidos y subdesarrollados.",
+	"b": "MÁS-O-MENOS EN-TOTAL NÚMERO CIFRA PERSONA+ NORMALMENTE PAÍS++ QUIÉN-?, PAÍS+ POBRE, DESARROLLO NO-HAY, PAÍS+ DEPRIMIDO.",
+	"c": "Más o menos, en total, la cifra de personas normalmente se da en los países pobres, subdesarrollados, deprimidos."
+    }
+    ,
+    {
+	"a": "Por contraste, en 61 países, donde reside casi la mitad de la población mundial, las parejas están teniendo menos de 2 hijos por mujer, cantidad necesaria para que haya un reemplazamiento generacional.",
+	"b": "EN-CAMBIO, COMPARACIÓN+, 61 PAÍS++ CASI DENTRO VIVIR PERSONA MITAD PERSONA+ VIVIR MUNDO,PAREJA+ NORMALMENTE, HIJO DOS-NO, MENOS, UN MUJER SABER DOS HIJOS DEBER PARA EVOLUCIÓN CONTINUAR+ DEBER.",
+	"c": "En cambio, en comparación, en 61 países donde viven casi la mitad de las personas del mundo, las parejas normalmente tienen menos de dos hijos. Se sabe que una mujer debe tener dos hijos para que la evolución continúe."
+    }
+    ,
+    {
+	"a": "En América del Norte, Japón y Europa, el crecimiento de la población prácticamente se ha detenido.",
+	"b": "EJEMPLO AMÉRICA NORTE, JAPÓN, TAMBIÉN EUROPA PERSONA+ CLD: C C \\clp{crecer cada vez más y muy rápidamente}-NO, DETENER, PARAR.",
+	"c": "Por ejemplo, en América del Norte, Japón y Europa el crecimiento de la población no es exagerado, se ha parado, se ha detenido."
+    }
+    ,
+    {
+	"a": "Cada mujer de los países de la Unión Europea tiene 1,4 hijos.",
+	"b": "UN MUJER PAÍS+ UNIÓN EUROPEA EN-TOTAL HIJO 1,4 HIJO UN MUJER.",
+	"c": "En los países de la Unión Europea, en total, cada mujer tiene 1,4 hijos."
+    }
+    ,
+    {
+	"a": "España está a la cabeza de los países con la tasa de fecundidad más baja, con un promedio de 1,15 hijos por mujer.",
+	"b": "ESPAÑA, PAÍS ESPAÑA, PRIMERO NACIMIENTO++ MUY-POCO, MÁS-O-MENOS, 1,15 HIJO UN MUJER.",
+	"c": "España es el primer país en baja tasa de natalidad, más o menos, 1,15 hijos por mujer."
+    }
+    ,
+    {
+	"a": "En España las tasas de natalidad están descendiendo desde hace 20 años, circunstancia que no se ha dado en ningún otro país de Europa.",
+	"b": "ESPAÑA EN-TOTAL NACIMIENTO++ EN-UN-AÑO DESDE-TIEMPO-HASTA-AHORA 20 AÑO DESCENDER, IGUAL PAÍS OTRO PAÍS EUROPA NO-HAY, ÚNICO ESPAÑA.",
+	"c": "En España la tasa anual de natalidad desde hace 20 años hasta ahora ha descendido, no hay otro país así en toda Europa, el único es España."
+    }
+    ,
+    {
+	"a": "Italia y Japón son los países que tienen la población más anciana, pero en el 2050 está previsto que este puesto lo ocupe España.",
+	"b": "ITALIA, JAPÓN, ESOS PAÍS+ AHORA-MISMO EDAD TERCERO MÁS, PERO TOCA 2050 QUIÉN-? CABEZA, PRIMERO, QUIÉN-?, ESPAÑA.",
+	"c": "En la actualidad Italia y Japón tienen más personas de la tercera edad, pero cuando llegue el 2.050 España será el primero, estará a la cabeza."
+    }
+    ,
+    {
+	"a": "Las razones por las que las españolas tienen tan pocos hijos parecen ser:",
+	"b": "MOTIVO PORQUE MUJER+ HIJO POCO MOTIVO-?:",
+	"c": "Los motivos porque las mujeres tienen tan pocos hijos son:"
+    }
+    ,
+    {
+	"a": "El descenso en el número de casamientos.",
+	"b": "AHORA-MISMO CASAMIENTO++ REDUCIR.",
+	"c": "En la actualidad se han reducido los casamientos."
+    }
+    ,
+    {
+	"a": "A pesar de que ha aumentado el número de personas que conviven juntas sin estar casadas, no nacen apenas niños de estas parejas.",
+	"b": "APARTE HAY PAREJA-DE-HECHO CRECER, NO-HACER-FALTA CASAR NO-HACER-FALTA, PERO PAREJA-DE-HECHO NO-HAY HIJO, NO-HAY.",
+	"c": "Por otra parte, las parejas de hecho han crecido, no hace falta casarse, pero las parejas de hecho no tienen hijos."
+    }
+    ,
+    {
+	"a": "Las cifras de paro.",
+	"b": "ADEMÁS PROBLEMA ESTADÍSTICA PARO.",
+	"c": "Además el problema de las estadísticas de paro."
+    }
+    ,
+    {
+	"a": "En España se da una de las tasas de desempleo entre los jóvenes más altas de Europa y aquellos que consiguen un trabajo éste suele ser precario, inestable y mal pagado.",
+	"b": "ESPAÑA PROBLEMA PARO JOVEN, PERO EUROPA PRIMERO PARO JOVEN QUIÉN-? EUROPA, ADEMÁS PERSONA+ JOVEN ENCONTRAR TRABAJO PROBLEMA MOTIVO TRABAJO PRECARIO, MÁS TEMPORAL TRABAJO, DINERO GRAN-SUELDO-NO, SUELDO-BAJO.",
+	"c": "En España el problema del paro juvenil es el más alto de Europa, además, los jóvenes que encuentran trabajo tienen el problema de que éste es precario, temporal y con bajo sueldo."
+    }
+    ,
+    {
+	"a": "El desempleo afecta más a las mujeres.",
+	"b": "PROBLEMA TRABAJO MUJER PARO MÁS MUJER.",
+	"c": "El problema del trabajo femenino. Hay más paro en la mujer."
+    }
+    ,
+    {
+	"a": "El empresario tiene miedo a que las mujeres se queden embarazadas",
+	"b": "PERSONA EMPRESA PROPIETARIO MIEDO MOTIVO MUJER EMBARAZO",
+	"c": "Los empresarios tienen miedo porque la mujer se quede embarazada,"
+    }
+    ,
+    {
+	"a": "y tengan que pedir permiso de maternidad.",
+	"b": "ADEMÁS SABER DESPUÉS DEBER PEDIR PARA EMBARAZO CUIDAR POR-ESO PROBLEMA.",
+	"c": "además saben que después deben pedir la baja maternal por eso es un problema."
+    }
+    ,
+    {
+	"a": "Por ello, muchas mujeres renuncian a tener hijos.",
+	"b": "MOTIVO MUCHAS-VECES MUJER DECIR HIJO EMBARAZO NACIMIENTO NADA, RECHAZAR.",
+	"c": "Por ello, muchas veces las mujeres dicen no tener hijos, lo rechazan."
+    }
+    ,
+    {
+	"a": "El coste de los hijos es muy alto. Para mantener un nivel de consumo determinado es necesario que trabajen los dos miembros de la pareja,",
+	"b": "ADEMÁS HIJO CUIDAR MUY-CARO, PARA MANTENER BIEN, DEBER DOS PAREJA, DOS, HOMBRE, MUJER, TRABAJAR DOS.",
+	"c": "Además, el cuidado de los hijos es muy caro, para mantenerlos bien los dos de la pareja, el hombre y la mujer, deben trabajar los dos."
+    }
+    ,
+    {
+	"a": "lo que muchas veces hace difícil que haya una conciliación entre trabajo y familia.",
+	"b": "ENTONCES, MUCHAS-VECES PROBLEMA QUÉ-?, TRABAJO, FAMILIA UNIR BIEN PROBLEMA.",
+	"c": "Entonces, muchas veces existe el problema de unir bien familia y trabajo."
+    }
+    ,
+    {
+	"a": "Mientras que en España el peso de los hijos repercuta más sobre la mujer no se podrá esperar un aumento de la fecundidad.",
+	"b": "ENTONCES, ESPAÑA EN-ESTE-MOMENTO HIJO RESPONSABLE MÁS QUIÉN-? MUJER+, POSIBLE FUTURO MUJER NACIMIENTO++ CRECER-NO.",
+	"c": "En España, en la actualidad, son las mujeres las máximas responsables de los hijos, puede que en el futuro la natalidad no crezca."
+    }
+    ,
+    {
+	"a": "El año pasado, unas treinta mujeres murieron en España a manos de sus maridos.",
+	"b": "AÑO PASADO EN-TOTAL 30 MUJER+ MUERTO MOTIVO HOMBRE MARIDO SU MATAR.",
+	"c": "El año pasado, en total, murieron 30 mujeres asesinadas por sus maridos."
+    }
+    ,
+    {
+	"a": "Además, se tramitaron más de 16.000 denuncias por malos tratos de hombres a sus parejas.",
+	"b": "ADEMÁS, EN-TOTAL 16000 DENUNCIA MUJER DENUNCIA MARIDO PAREJA SU.",
+	"c": "Además, en total, hubo 16.000 denuncias de mujeres a sus maridos o parejas."
+    }
+    ,
+    {
+	"a": "Sin embargo, los especialistas dicen que se dan muchas más agresiones a las mujeres de las que se denuncian.",
+	"b": "PERO, PERSONA+ AUTORIDAD++ DECIR NORMAL MATAR, MALTRATO MÁS, DENUNCIA MENOS.",
+	"c": "Pero, las autoridades dicen que, normalmente hay más asesinatos, maltratos que denuncias."
+    }
+    ,
+    {
+	"a": "Los españoles han visto en diez días dos casos terribles.",
+	"b": "PERSONA+ ESPAÑA VIVIR EN-TOTAL DESDE-HACE-TIEMPO-HASTA-AHORA DIEZ DÍA DOS EJEMPLO HORRIBLE.",
+	"c": "Los españoles en diez días (han visto) dos ejemplos horribles."
+    }
+    ,
+    {
+	"a": "En uno de ellos, una mujer moría a manos de su ex-novio, un preso peligroso en libertad.",
+	"b": "UN MUJER MUERTO MOTIVO EX NOVIO ANTES HOMBRE DENTRO CÁRCEL, AHORA LIBRE.",
+	"c": "Una mujer asesinada por su ex-novio que antes estaba en la cárcel y ahora estaba libre."
+    }
+    ,
+    {
+	"a": "La mujer había realizado ya muchas denuncias por malos tratos.",
+	"b": "ESE MUJER MUCHAS-VECES ANTES DENUNCIA+ MOTIVO MALTRATO.",
+	"c": "Esa mujer había denunciado muchas veces antes el maltrato."
+    }
+    ,
+    {
+	"a": "En el otro caso, el marido arrojó a su mujer por el balcón de un séptimo piso.",
+	"b": "OTRO SEGUNDO MARIDO HOMBRE SABER BALCÓN SÉPTIMO-PISO TIRAR.",
+	"c": "En el segundo, el marido la tiró desde el balcón de un séptimo piso."
+    }
+    ,
+    {
+	"a": "Ante esto, muchas personas nos preguntamos por qué suceden estos crueles actos de violencia.",
+	"b": "ENTONCES, MUCHAS-VECES PERSONA PENSAR, VER PORQUÉ TEMA MALTRATO PORQUÉ.",
+	"c": "Entonces, muchas veces las personas piensan porqué se da el tema del maltrato, porqué."
+    }
+    ,
+    {
+	"a": "A pesar de los datos anteriores, no podemos decir que el número de malos tratos haya aumentado en nuestra época;",
+	"b": "ANTES DATO++ DECIR EN-TOTAL NÚMERO MALTRATO AHORA MÁS-NO, NO, NO-PODER CONTAR, NO-PODER",
+	"c": "Los datos sobre el número total de malos tratos no son más ahora que antes, no se puede contar eso,"
+    }
+    ,
+    {
+	"a": "lo que ocurre es que la sociedad es más sensible y está más informada.",
+	"b": "QUÉ-PASA-?, AHORA-MISMO SOCIEDAD SENSIBLE, ADEMÁS RECIBIR-INFORMACIÓN++ CLARO POR-ESO.",
+	"c": "¿qué es lo que pasa?, que en la actualidad la sociedad es más sensible, además se recibe una información clara, por eso."
+    }
+    ,
+    {
+	"a": "Este problema se ha dado en todas las épocas, culturas y clases sociales.",
+	"b": "ESE PROBLEMA MALTRATO TODOS ÉPOCA DURANTE HISTORIA DURANTE, CULTURA, ETCÉTERA, ADEMÁS GRUPO+++.",
+	"c": "El problema del maltrato se ha dado en todas las épocas de la historia, en todas las culturas y grupos."
+    }
+    ,
+    {
+	"a": "No es que ahora hayan aumentado, lo que ocurre es que se denuncia más que antes.",
+	"b": "AHORA ESPECIAL MÁS-NO, AHORA QUÉ-PASA-?, DENUNCIA.",
+	"c": "Ahora no se da especialmente más, lo que pasa ahora es que se denuncia."
+    }
+    ,
+    {
+	"a": "Ahora, la mujer que denuncia se siente más apoyada.",
+	"b": "AHORA MUJER TOCA DENUNCIA HAY APOYO",
+	"c": "Ahora se apoya a la mujer que denuncia,"
+    }
+    ,
+    {
+	"a": "Antes, las mujeres que se culpaban a sí mismas de recibir malos tratos, se consideraban malas esposas.",
+	"b": "ANTES MUJER SENTIR CULPA MÍ, SENTIR MAL, NORMAL MUJER PARECER MUJER ESPOSA MALA, POR-ESO.",
+	"c": "antes la mujer se sentía culpable, se sentía mal, normalmente la mujer se consideraba mala esposa por eso."
+    }
+    ,
+    {
+	"a": "Los factores que influyen en la violencia en el hogar son múltiples.",
+	"b": "ENTONCES, HAY DATO+++ PARA CASA MALTRATO INFLUENCIA QUÉ-? ETCÉTERA.",
+	"c": "Hay datos que influyen en el maltrato en el hogar."
+    }
+    ,
+    {
+	"a": "Se sabe que aquellas personas que durante la infancia han recibido malos tratos es más probable que sean agresivas y violentas en sus familias.",
+	"b": "SABER TOCA PERSONA HIJO PEQUEÑO DECIR RECIBIR-MALTRATO NORMAL CRECER, DESPUÉS, CRECER, FAMILIA NORMAL RECIBIR-MALTRATO CAPAZ FAMILIA MALTRATAR++, CAPAZ.",
+	"c": "Se sabe que cuando una persona es pequeña y recibe maltrato, normalmente crece y, después de crecer en una familia recibiendo maltrato es capaz de maltratar a su familia."
+    }
+    ,
+    {
+	"a": "Los malos tratos se dan en todas las clases sociales,",
+	"b": "NORMAL MALTRATO TODOS GRUPO++ SOCIEDAD TODOS IGUAL HAY.",
+	"c": "Normalmente el maltrato se da en todos los grupos sociales por igual."
+    }
+    ,
+    {
+	"a": "aunque se ha podido comprobar que a menores recursos económicos hay más violencia.",
+	"b": "DECIR DINERO POBRE, POCO, NORMAL MALTRATO MÁS.",
+	"c": "Si se es pobre, si se tiene poco dinero, normalmente se da más maltrato."
+    }
+    ,
+    {
+	"a": "Cuando la situación económica es buena es más fácil separarse, pero si la mujer depende económicamente del hombre y teme no tener dinero para alimentar a sus hijos es probable que aguante las agresiones.",
+	"b": "EJEMPLO SITUACIÓN DINERO BIEN PODER FÁCIL SEPARARSE, PERO MUJER EJEMPLO HOMBRE MARIDO DEBER DINERO MANTENER++ DESPUÉS, PROBLEMA SEPARARSE, HIJO, NORMAL MUJER QUÉ-HACER-?, AGUANTAR MALTRATO, AGUANTAR.",
+	"c": "Si la situación económica es buena, puede separarse fácilmente, pero si el marido debe mantener a la mujer, después está el problema de separarse, de los hijos. Normalmente, la mujer ¿qué hace?, aguanta el maltrato."
+    }
+    ,
+    {
+	"a": "Por lo general, la violencia en la pareja es más frecuente entre personas jóvenes, aunque las denuncias lleguen después de varios años de matrimonio.",
+	"b": "EN-GENERAL DENTRO PAREJA VIOLENCIA USAR MÁS JOVEN, PODER DENUNCIA DESPUÉS MATRIMONIO, DESPUÉS DENUNCIA.",
+	"c": "En general, dentro se suele dar más maltrato en las parejas de jóvenes, pero puede que la denuncia se dé después del matrimonio."
+    }
+    ,
+    {
+	"a": "Los expertos afirman que los primeros malos tratos ya se manifiestan desde el noviazgo, lo que ocurre es que inmediatamente después de la agresión viene el arrepentimiento, acompañado de las promesas y de las muestras de amor, que en la mayoría de las veces hacen que la víctima perdone.",
+	"b": "PERSONA AUTORIDAD++ DECIR MALTRATO EMPEZAR CUANDO NOVIO+ EMPEZAR MALTRATO, PERO QUÉ-PASA-?, DESPUÉS MALTRATO PERSONA ARREPENTIRSE ADEMÁS PEDIR-PERDÓN, ADEMÁS PEDIR-PERDÓN, DECLARACIÓN-DE-AMOR, MUCHAS-VECES QUÉ-PASA-?, MUJER PERDONAR",
+	"c": "Las autoridades dicen que el maltrato empieza cuando son novios, pero ¿qué pasa?, después del maltrato la persona se arrepiente, pide perdón y declara su amor. Muchas veces lo que pasa es que la mujer perdona."
+    }
+    ,
+    {
+	"a": "También es importante señalar que factores como el consumo de alcohol o la contaminación pueden favorecer el maltrato.",
+	"b": "TAMBIÉN IMPORTANTE DECIR COSAS EJEMPLO BEBIDA ALCOHOL O CONTAMINACIÓN DAR-ME FÁCIL TRASTORNAR, MALTRATO",
+	"c": "También es importante decir que cosas como las bebidas alcohólicas o la contaminación pueden fácilmente trastornar y (provocar) el maltrato."
+    }
+    ,
+    {
+	"a": "El ritmo de vida de las grandes ciudades que favorece la excitabilidad y el estrés también pueden causar una mayor violencia en el hogar.",
+	"b": "AHORA-MISMO CIUDAD GRANDE EVOLUCIÓN DAR-ME+ FÁCIL AGRESIVIDAD ADEMÁS ESTRÉS DAR-ME++ ADEMÁS CAPAZ DENTRO CASA MALTRATO MÁS.",
+	"c": "En la actualidad la evolución de las ciudades grandes facilita la agresividad y puede provocar estrés y puede que en el hogar haya más maltrato."
+    }
+    ,
+    {
+	"a": "Aunque el hecho de que haya más denuncias en las ciudades que en los pueblos no quiere decir que en estos últimos haya un número menor de malos tratos.",
+	"b": "PERO AHORA-MISMO CIUDAD DENUNCIA MÁS, PUEBLO MENOS, QUERER DECIR DENTRO PUEBLO, DENTRO, MALTRATO MENOS-?, NO++, DEPENDER.",
+	"c": "Pero que en la actualidad se denuncie más en la ciudad que en los pueblos ¿quiere decir que en los pueblos hay menos maltrato? No, depende."
+    }
+    ,
+    {
+	"a": "Los datos pueden que no nos estén dando un auténtico reflejo de la realidad.",
+	"b": "MUCHAS-VECES DATO++ DECIR DAR-ME INFORMACIÓN REAL-NO.",
+	"c": "Muchas veces los datos no nos dan una información real."
+    }
+    ,
+    {
+	"a": "En las grandes ciudades la mujer puede hacer la denuncia sin que se sepa.",
+	"b": "CIUDAD GRANDE MUJER IR DENUNCIA, SECRETO, DIVULGAR NO-HAY.",
+	"c": "En las ciudades grandes la mujer va a denunciar y hay secreto, no se divulga."
+    }
+    ,
+    {
+	"a": "En los pueblos y las ciudades pequeñas le puede costar más ir a un centro de salud o a la policía,",
+	"b": "PERO PUEBLO O CIUDAD PEQUEÑO COSTAR IR CENTRO SALUD O POLICIA, IR COSTAR",
+	"c": "Pero en los pueblos o en las ciudades pequeñas cuesta ir al centro de salud o a la policía"
+    }
+    ,
+    {
+	"a": "porque es probable que la conozcan a ella, a su marido, a la familia de ambos, etc.",
+	"b": "MOTIVO POSIBLE CONOCER PERSONA MUJER O HOMBRE MARIDO O FAMILIA LOS-DOS, POSIBLE, ETCÉTERA.",
+	"c": "porque es posible que conozcan a la mujer o al marido o a la familia de ambos, etcétera."
+    }
+    ,
+    {
+	"a": "Te voy a contar un día en la vida de mi hermana.",
+	"b": "YO CONTAR VIDA MI HERMANO-MUJER, YO CONTAR UN DÍA COMPLETO.",
+	"c": "Te voy a contar la vida de mi hermana. Te voy a contar un día completo."
+    }
+    ,
+    {
+	"a": "Mi hermana se llama Ana y tiene 5 años.",
+	"b": "ÉL NOMBRE \\dl{ANA}, EDAD CINCO.",
+	"c": "Ella se llama Ana. Tiene cinco años."
+    }
+    ,
+    {
+	"a": "Por la mañana, Ana se despierta a las 8.30.",
+	"b": "POR-LA-MAÑANA DESPERTARSE HORA OCHO Y-MEDIA.",
+	"c": "Por la mañana se despierta a las ocho y media."
+    }
+    ,
+    {
+	"a": "Ella nunca se levanta sola, porque es muy dormilona.",
+	"b": "ÉL LEVANTARSE SOLO NUNCA MOTIVO+ ENCANTAR DORMIR.",
+	"c": "Ella nunca se levanta sola porque le encanta dormir."
+    }
+    ,
+    {
+	"a": "Cuando suena el despertador, ella nunca lo oye.",
+	"b": "TOCA DESPERTADOR ESCUCHAR PASAR+",
+	"c": "No oye el despertador."
+    }
+    ,
+    {
+	"a": "Yo la despierto para que se lave antes de desayunar.",
+	"b": "YO CLS: 2 \\clp{persona andando} LLAMAR PARA LAVARSE ANTES DESAYUNO.",
+	"c": "Yo la llamo para que se lave antes de desayunar."
+    }
+    ,
+    {
+	"a": "Si hace mucho frío, le llevo la bata a la cama.",
+	"b": "EJEMPLO FRÍO YO LLEVAR BATA CAMA LLEVAR",
+	"c": "Si hace frío le llevo la bata a la cama."
+    }
+    ,
+    {
+	"a": "Es una bata rosa con un oso dibujado en el bolsillo.",
+	"b": "COLOR ROSA, BOLSILLO OSO DIBUJO CLL: \\clp{dibujo sobre el bolsillo}.",
+	"c": "Es de color rosa. Tiene un dibujo de un oso en el bolsillo."
+    }
+    ,
+    {
+	"a": "A Ana le gusta mucho su bata.",
+	"b": "ÉL MUJER(\\clp{Ana}) ENCANTAR BATA.",
+	"c": "A Ana le encanta la bata."
+    }
+    ,
+    {
+	"a": "Después de salir del baño, desayunamos.",
+	"b": "FIN SERVICIO, FIN, LOS-DOS DESAYUNO.",
+	"c": "Cuando termina en el servicio, las dos vamos a desayunar."
+    }
+    ,
+    {
+	"a": "A Ana le gusta desayunar despacio.",
+	"b": "ÉL MUJER(\\clp{Ana}) ENCANTAR DESPACIO DESAYUNO DESPACIO",
+	"c": "A Ana le encanta desayunar despacio."
+    }
+    ,
+    {
+	"a": "A veces mamá le dice que se dé prisa porque va a llegar tarde a clase.",
+	"b": "MUCHAS-VECES MAMÁ\\nmcº{(rol:madre)}: POR-FAVOR, HORA MUY-TARDE, CLASE, VAMOS DEPRISA.",
+	"c": "Muchas veces mamá le dice: por favor, es tarde para la clase, date prisa."
+    }
+    ,
+    {
+	"a": "Ella desayuna todos los días leche caliente y una tostada con aceite.",
+	"b": "ÉL TODOS-LOS-DÍAS LECHE CALIENTE ADEMÁS TOSTADA ACEITE, TODOS-LOS-DÍAS DESAYUNO.",
+	"c": "Ella todos los días desayuna leche caliente y tostada con aceite."
+    }
+    ,
+    {
+	"a": "Los domingos papá compra churros y,",
+	"b": "DOMINGO+ PAPÁ CHURRO COMPRAR",
+	"c": "Los domingos papá compra churros"
+    }
+    ,
+    {
+	"a": "entonces, Ana cambia su desayuno.",
+	"b": "ÉL CAMBIAR DESAYUNO, CAMBIAR.",
+	"c": "ella cambia el desayuno."
+    }
+    ,
+    {
+	"a": "Tras desayunar, Ana y yo cogemos nuestras mochilas y nos vamos al colegio.",
+	"b": "FIN DESAYUNO LOS-DOS IR PONERSE-LA-MOCHILA IR COLEGIO.",
+	"c": "Después de desayunar, las dos nos ponemos las mochilas y nos vamos al colegio."
+    }
+    ,
+    {
+	"a": "Papá nos lleva a la esquina de la calle.",
+	"b": "PAPÁ ACOMPAÑAR ESQUINA CALLE",
+	"c": "Papá nos acompaña a la esquina de la calle."
+    }
+    ,
+    {
+	"a": "Allí nos recoge el autobús del colegio.",
+	"b": "ESQUINA, AHÍ VENIR AUTOBÚS, AUTOBÚS ESPECIAL COLEGIO.",
+	"c": "En la esquina viene el autobús del colegio."
+    }
+    ,
+    {
+	"a": "Cuando llega el autobús, todos los niños se ponen en fila. Los menores entran los primeros.",
+	"b": "TOCA VENIR AUTOBÚS TODOS NIÑOS CLP: 5 5 \\clp{fila de niños}, EJEMPLO PEQUEÑO PRIMERO CLP: 5 5 \\clp{fila de niños}",
+	"d": "Cuando viene el autobús todos los niños nos ponemos en fila, los más pequeños los primeros."
+    }
+    ,
+    {
+	"a": "Ana siempre entra antes que yo.",
+	"b": "MUJER(\\clp{Ana}) PRIMERO, YO SEGUNDO.",
+	"c": "Primero va Ana y en segundo lugar yo."
+    }
+    ,
+    {
+	"a": "Cuando llegamos al colegio, Ana se va a su clase.",
+	"b": "ENTONCES, TOCA COLEGIO MUJER(\\clp{Ana}) IR CLASE AULA SU.",
+	"c": "En el colegio Ana se va a su clase."
+    }
+    ,
+    {
+	"a": "Yo no la vuelvo a ver hasta la hora del recreo.",
+	"b": "DESPUÉS, VERSE HORA DESCANSO VERSE.",
+	"c": "Después nos vemos en la hora del recreo."
+    }
+    ,
+    {
+	"a": "Ana ya sabe leer y escribir. Es muy lista.",
+	"b": "ÉL MUJER(\\clp{Ana}) SABER LEER, ESCRIBIR, MUY-INTELIGENTE.",
+	"c": "Ana sabe leer y escribir, es muy inteligente."
+    }
+    ,
+    {
+	"a": "La maestra dice que es una niña muy buena, aunque algo traviesa.",
+	"b": "MUJER-PROFESOR DECIR MUY BUENO, PERO UN-POCO TRAVIESO++.",
+	"c": "La profesora dice que es muy buena, pero un poco traviesa."
+    }
+    ,
+    {
+	"a": "En clase, Ana aprende muchas cosas. A ella le gusta mucho dibujar y leer.",
+	"b": "DENTRO CLASE MUJER(\\clp{Ana}) APRENDER MUCHO COSAS ETCÉTERA, ENCANTAR DIBUJAR, LEER",
+	"c": "En la clase Ana aprende muchas cosas diferentes, le encanta dibujar, leer,"
+    }
+    ,
+    {
+	"a": "También le gusta aprender cosas sobre la vida de los animales.",
+	"b": "TAMBIÉN GUSTAR COSAS VIDA SU ANIMALES GUSTAR.",
+	"c": "también le gustan las cosas de la vida de los animales."
+    }
+    ,
+    {
+	"a": "A las 14.30 volvemos a casa.",
+	"b": "HORA DOS Y-MEDIA, IR CASA.",
+	"c": "A las dos y media vamos a casa."
+    }
+    ,
+    {
+	"a": "Nos lavamos las manos",
+	"b": "LAVARSE-LAS-MANOS.",
+	"c": "Nos lavamos las manos"
+    }
+    ,
+    {
+	"a": "ayudamos a mamá y a papá a poner la mesa.",
+	"b": "TAMBIÉN PADRE-MADRE MESA PREPARAR PLATO.",
+	"c": "también papá y mamá ponen los platos en la mesa."
+    }
+    ,
+    {
+	"a": "Tenemos mucha hambre",
+	"b": "HAMBRE MUCHO",
+	"c": "Tenemos mucha hambre"
+    }
+    ,
+    {
+	"a": "nos comemos todo lo que nos ponen.",
+	"b": "COMER PLATO AGOTADO.",
+	"c": "comemos todo el plato."
+    }
+    ,
+    {
+	"a": "Ana bebe zumo de naranja mientras almuerza.",
+	"b": "BEBER ZUMO NARANJA COMER.",
+	"c": "Bebe zumo de naranja con la comida."
+    }
+    ,
+    {
+	"a": "También le gusta comer pan blanco.",
+	"b": "TAMBIÉN, GUSTAR QUÉ-?, PAN BLANCO",
+	"c": "También le gusta el pan blanco"
+    }
+    ,
+    {
+	"a": "Su plato favorito es la tortilla de patatas y el arroz blanco.",
+	"b": "ADEMÁS ENCANTAR ARROZ BLANCO, TORTILLA PATATA.",
+	"c": "además le encanta el arroz blanco y la tortilla de patatas."
+    }
+    ,
+    {
+	"a": "Después de la comida, mamá siempre nos da un poco de chocolate.",
+	"b": "DESPUÉS COMER FIN COMER, CHOCOLATE MAMÁ DAR-ME.",
+	"d": "Después de comer, mamá nos da chocolate."
+    }
+    ,
+    {
+	"a": "Tras el almuerzo, Ana y yo quitamos la mesa y ayudamos a poner los platos en el lavavajillas.",
+	"b": "FIN COMIDA MEDIODÍA MUJER(\\clp{Ana}) LOS-DOS MESA PLATO CLI: \\clp{quitar los platos de la mesa} TAMBIÉN APOYAR PARA LAVAVAJILLAS PLATO CLI: \\clp{poner los platos en el lavavajillas}.",
+	"c": "Tras el almuerzo las dos quitamos la mesa y ayudamos a poner los platos en el lavavajillas."
+    }
+    ,
+    {
+	"a": "Tras esto, nos sentamos con papá y mamá en el salón.",
+	"b": "FIN, SALÓN SENTAR PADRE-MADRE.",
+	"c": "Cuando terminamos nos sentamos en el salón con papá y mamá."
+    }
+    ,
+    {
+	"a": "Unos días papá pone el vídeo y vemos películas de animales o de dibujos animados.",
+	"b": "ALGUNOS DÍA+ VER VÍDEO ANIMADO DIBUJO O ANIMALES.",
+	"c": "Algunos días vemos vídeos de dibujos animados o animales."
+    }
+    ,
+    {
+	"a": "Otros días, jugamos a distintos juegos.",
+	"b": "OTRO DÍA, DEPENDER, JUGAR COSAS ETCÉTERA, DEPENDER.",
+	"c": "Otros días jugamos a distintas cosas, depende."
+    }
+    ,
+    { 
+	"a": "A las 17.30 nos ponemos a hacer los deberes.",
+	"b": "HORA CINCO Y-MEDIA LOS-DOS ESPECIAL COLEGIO DEBERES PREPARAR.",
+	"c": "A las cinco y media preparamos los deberes del colegio."
+    }
+    ,
+    {
+	"a": "Ana casi nunca tiene que hacer nada.",
+	"b": "MUJER(\\clp{Ana}) HACER NADA.",
+	"c": "Ana no hace nada."
+    }
+    ,
+    {
+	"a": "Entonces, se pone a leer libros.",
+	"b": "ÉL HACER LIBRO LEER.",
+	"c": "Ella lee un libro."
+    }
+    ,
+    {
+	"a": "Después, merendamos leche y un bocadillo.",
+	"b": "DESPUÉS, COMER BOCADILLO LECHE VASO.",
+	"c": "Después, comemos un bocadillo y un vaso de leche."
+    }
+    ,
+    {
+	"a": "Luego, mamá nos lleva al parque.",
+	"b": "DESPUÉS, MAMÁ ACOMPAÑAR PARQUE.",
+	"c": "Después, mamá nos acompaña al parque."
+    }
+    ,
+    {
+	"a": "Allí Ana ve a sus amigas y se ponen a jugar.",
+	"b": "ALLÍ PARQUE AMIGO+ MUJER(\\clp{Ana}) JUGAR.",
+	"c": "Allí Ana juega con sus amigos."
+    }
+    ,
+    {
+	"a": "Al final, se pone muy sucia de correr y tirarse por el suelo.",
+	"b": "AL-FINAL, SUCIO MOTIVO CORRER; SUELO CLS: 2 \\clp{persona revolcándose en el suelo} SUCIO ROPA.",
+	"c": "Al final, se ensucia porque corre y se tira por el suelo y se ensucia la ropa."
+    }
+    ,
+    {
+	"a": "Luego, volvemos a casa.",
+	"b": "FIN, IR CASA.",
+	"c": "Luego, vamos a casa."
+    }
+    ,
+    {
+	"a": "Lo primero que hacemos es bañarnos.",
+	"b": "PRIMERO QUÉ-HACER-? DUCHARSE LAVARSE.",
+	"c": "Primero nos lavamos."
+    }
+    ,
+    {
+	"a": "Después, preparamos la ropa y la mochila para el día siguiente.",
+	"b": "DESPUÉS, ROPA, MOCHILA POR-LA-MAÑANA ESE PREPARAR+.",
+	"c": "Después, preparamos la ropa y la mochila de por la mañana."
+    }
+    ,
+    {
+	"a": "Mientras, mamá y papá nos hacen la cena.",
+	"b": "ESE MIENTRAS PADRE-MADRE QUÉ-HACER-? POR-LA-NOCHE COMER.",
+	"c": "Mientras, papá y mamá hacen la cena."
+    }
+    ,
+    {
+	"a": "Luego, nos vamos a la cama. Ana y yo dormimos en la misma habitación, pero cada una tiene su cama.",
+	"b": "FIN, IR CAMA LOS-DOS HABITACIÓN, PRIVADO CAMA CLP: 5 5 \\clp{dos camas separadas}.",
+	"c": "Luego, vamos a la cama, a la misma habitación pero a camas separadas."
+    }
+    ,
+    {
+	"a": "Papá viene a leernos algún cuento hasta que nos dormimos.",
+	"b": "PAPÁ CUENTO LEER HASTA LOS-DOS QUEDARSE-DORMIDO.",
+	"c": "Papá lee un cuento hasta que nos quedamos dormidas."
+    }
+    ,
+    {
+	"a": "Algunas veces, de madrugada, Ana se despierta porque tiene sed.",
+	"b": "ALGUNAS-VECES DE-MADRUGADA MUJER(\\clp{Ana}) DESPERTAR MOTIVO SED.",
+	"c": "Algunas veces, de madrugada, Ana se despierta porque tiene sed."
+    }
+    ,
+    {
+	"a": "Entonces, llama a mamá o a papá y ellos le traen un vaso de agua.",
+	"b": "ÉL QUÉ-HACER-?, PAPÁ O MAMÁ LLAMAR PARA AGUA VASO.",
+	"c": "Llama a papá o a mamá para que le traigan un vaso de agua."
+    }
+    ,
+    {
+	"a": "Después sigue durmiendo hasta las 8.30 de la mañana.",
+	"b": "DESPUÉS, QUEDARSE-DORMIDO HASTA HORA OCHO Y-MEDIA POR-LA-MAÑANA.",
+	"c": "Después, se queda dormida hasta las ocho y media de la mañana."
+    }
+]
